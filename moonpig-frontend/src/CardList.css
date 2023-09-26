@@ -1,0 +1,28 @@
+/* CardList.css */
+.card-list {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-list h1 {
+    color: lightpink;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .card-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .card-list li {
+    margin-bottom: 8px;
+    font-size: 16px;
+  }
+  
+  .card-list p {
+    color: #333; /* Default text color */
+  }
+  
